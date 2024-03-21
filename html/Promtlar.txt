@@ -1,0 +1,35 @@
+Promt 1
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için HTML, CSS ve JavaScript araçları kullanarak yeni bir web sitesi kodlayacaksınız.
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+HTML, CSS ve Javascript kodlarını ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+Promt 2
+Portfolio galeri web sitesi oluşturmak istiyorum. 
+Web sitemde bulunmasını istediğim etiketler 
+(header, main, nav, section, article, aside, footer) şeklindedir.
+sayfamın header bölümünde bir logo olmasını istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 5 adet olmak üzere 200x300 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir geçiş efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+promt 3
+Film isimlerinin başlıklarının arka planına siyah bir arka plan ekle ve yazı stil rengini beyaza cevir.
+Ayrıca logo boyutunu 100x100 boyutuna getir ve sol tarafa dayalı olarak düzenle.
+Ayrıca navigasyon bölümünü sağ tarafa dayalı hale getir misin?
+
+promt 4
+Article içerisinde yer alan resimleri bir çerçeve içerisine alıp 3px kalınlığında çerçeve oluşturur musun? 
+Bunlara bağlı olarak aynı işlemi görselere ait bilgilerin bulundugu kısımlarıda dahil eder misin?
+
+Görsel
+promt 1
+Arka planı siyah üzerinde klasik film makaralı bulunan görsel bir logo oluşturur musun?
+ 
+Promt 2
+Arka planı siyah bir kara tahta görünümünde olan uzerine tebeşir ile çizilmiş görünüme sahip film produksiyon öğelerinin yer aldigi mail kutusu olan bir görsel 
+
